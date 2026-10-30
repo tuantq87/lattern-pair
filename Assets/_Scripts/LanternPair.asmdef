@@ -1,0 +1,18 @@
+{
+  "name": "LanternPair",
+  "rootNamespace": "LanternPair",
+  "references": [
+    "LanternPair.Core",
+    "Unity.InputSystem",
+    "PrimeTween.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
